@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-confirmic",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A minimal plugin to add Confirmic to your Gatsby site.",
   "keywords": [
     "gatsby",
@@ -10,7 +10,7 @@
   "main": "index.js",
   "repository": "https://github.com/marshallhahn/gatsby-plugin-confirmic.git",
   "peerDependencies": {
-    "gatsby": "^1.0.0 || ^2.0.0 || ^3.0.0 || ^4.0.0"
+    "gatsby": "^1.0.0 || ^2.0.0 || ^3.0.0 || ^4.0.0 || ^5.0.0"
   },
   "engines": {
     "node": ">=12.0"

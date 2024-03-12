@@ -2,6 +2,8 @@
 
 A minimal plugin to add Confirmic to your Gatsby site.
 
+Note: While Confirmic is still technically around, it does not appear to be maintained anymore. I will keep this package published but will no longer be updating it.
+
 ### Confirmic Documentation
 
 - [Confirmic Docs](https://docs.confirmic.com/docs)
@@ -29,7 +31,7 @@ plugins: [
     resolve: `gatsby-plugin-confirmic`,
     options: {
       // replace with your confirmic client id (with prj:)
-      client_id: 'YOUR_CONFIRMIC_CLIENT_ID',
+      client_id: "YOUR_CONFIRMIC_CLIENT_ID",
     },
   },
 ];
